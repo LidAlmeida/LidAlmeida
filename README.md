@@ -4,7 +4,7 @@
 - 👩🏻‍🔬 I'm an observant, curious, lifelong learner, moved by challenges and now embracing a career in data science.
 - 👩🏻‍💻 I’m currently learning about:
       
-      Programming and Database Languages
+      Programming Languages and Database
       - Data Analyst with Python
       - SQL for data extraction
       - R for statistical modeling
