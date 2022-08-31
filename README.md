@@ -15,7 +15,8 @@
       - Regression, classification, clustering, and learning to rank algorithms
       - Data balancing techniques, attribute selection, and reduction of
       dimensionality
-      - Algorithm performance metrics ( RMSE, MAE, MAPE, Confusion Matrix, Precision, Recall, ROC Curve, Lift Curve,         AUC, Silhouette Score, DB-Index)
+      - Algorithm performance metrics ( RMSE, MAE, MAPE, Confusion Matrix, Precision, 
+      Recall, ROC Curve, Lift Curve, AUC, Silhouette Score, DB-Index)
       
       Data Visualization
       - Matplotlib, Seaborn, Plotly, and Bokeh
