@@ -1,6 +1,6 @@
 ### Hi there 🐱‍👤
 
-- 🌱 I'm a biologist with M.Sc in Ecology and Evolution. Throughout my career as a scientist, I have used data to answer complex questions and communicate my findings.
+- 🌱 I'm a biologist with M.Sc in Ecology and Evolution. As a scientist, I used data to answer complex questions and                communicate findings.
 - 👩🏻‍🔬 I'm an observant, curious, lifelong learner, moved by challenges and now embracing a career in data science.
 - 👩🏻‍💻 I’m currently learning about:
       
