@@ -21,18 +21,8 @@
       Data Visualization
       - Matplotlib, Seaborn, Plotly, and Bokeh
       - ggplot2, tidyverse, lattice
-      - Power BI, Tableau, Metabase, and Looker
-      
-<div style="display: inline_block"><br>
-   <img align="center" alt="Python" height="50" width="60" 
-   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Numpy" height="50" width="60" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
-  <img align="center" alt="Pandas" height="50" width="60"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">        
-  <img align="center" alt="R" height="50" width="60" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" >
-</div>
+      - Power BI, Tableau, and Looker
+  
 
 <div align="left">
   <a href="https://github.com/LidAlmeida">
