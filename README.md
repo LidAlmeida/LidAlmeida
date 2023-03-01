@@ -1,5 +1,9 @@
 ### Hi there!
 
+<p align="center">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+</p>
+
 - 🌱 I'm a biologist with PhD in Ecology and Evolution. As a scientist, I used data to answer complex questions and                communicate findings.
 - 👩🏻‍🔬 I'm an observant, curious, lifelong learner, moved by challenges and now embracing a career in data science.
 - 👩🏻‍💻 I’m currently learning about:
@@ -22,19 +26,22 @@
       - Matplotlib, Seaborn, Plotly, and Bokeh
       - ggplot2, tidyverse, lattice
       - Power BI, Tableau, and Looker
-  
 
-<div align="left">
-  <a href="https://github.com/LidAlmeida">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LidAlmeida&layout=compact&langs_count=7&theme=radical"/>
-</div>
 
-#### ✨ Where to find me:
-<div>
-  <a href="https://www.linkedin.com/in/lidiane-cordeiro-de-almeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+***
+#### ✨ Where to find me: <a href="https://www.linkedin.com/in/lidiane-cordeiro-de-almeida/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/> 
+</a> 
 
- 
+***
+
+        
+<p align="center">
+<a href="https://github.com/LidAlmeida">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LidAlmeida&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LidAlmeida&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+            
  
   
  
