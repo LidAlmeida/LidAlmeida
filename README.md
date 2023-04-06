@@ -7,7 +7,7 @@
 - 🌱 I'm a biologist with PhD in Ecology and Evolution. As a scientist, I used data to answer complex questions and communicate findings. In order to expand my professional skills, I invested in learning programming, experiment design, statistics, data visualization, and scientific writing. This approach allowed me to effectively analyze and interpret complex data sets in an environmental context. Now, I am looking to apply my skills to a new position that combines my scientific experience and analytical ability.
 - 👩🏻‍💻 I’m currently learning about:
 
-    - Programming Languages and Database
+    - Programming Languages
     - Statistics and Machine Learning
     - Data Visualization
 
