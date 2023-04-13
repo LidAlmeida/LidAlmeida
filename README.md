@@ -5,11 +5,17 @@
 </p>
 
 - 🌱 I'm a biologist with PhD in Ecology and Evolution. As a scientist, I used data to answer complex questions and communicate findings. In order to expand my professional skills, I invested in learning programming, experiment design, statistics, data visualization, and scientific writing. This approach allowed me to effectively analyze and interpret complex data sets in an environmental context. Now, I am looking to apply my skills to a new position that combines my scientific experience and analytical ability.
-- 👩🏻‍💻 I’m currently learning about:
 
+- 👩🏻‍💻 I’m currently learning about:
     - Programming Languages
     - Statistics and Machine Learning
     - Data Visualization
+
+## Portfolio projects:
+
+[Rossmann Sales Prediction](https://github.com/LidAlmeida/rossmann_prediction)
+
+- The objective of this project was to develop a machine learning model to predict the sales of a German drugstore chain. The project involved the application of data analysis, feature engineering, and selection techniques. The Boruta, Linear Regression, Random Forest, and XGBoost algorithms were used to build and evaluate the model.
 
 
 ***
@@ -17,8 +23,7 @@
 </a> 
 
 ***
-
-        
+       
 <p align="center">
 <a href="https://github.com/LidAlmeida">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LidAlmeida&layout=compact&langs_count=8&theme=algolia"/>
